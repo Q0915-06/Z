@@ -11,4 +11,12 @@ int main()
 int add(int a, int b){
     sum = a + b;
     return sum;
+int MOtify(int a, int b);
+int main()
+{
 }
+int MOtify(int a,int b)
+{
+return a*b
+}
+
